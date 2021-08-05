@@ -1,7 +1,6 @@
 ---
 home: true
-heroText: nullHigh availability
-
+heroText: null
 heroImage: ./../logo.svg
 actionText: Get Started →
 actionLink: installation.md

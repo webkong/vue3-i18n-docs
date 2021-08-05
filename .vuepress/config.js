@@ -63,7 +63,7 @@ module.exports = {
           },
           {
             text: "API",
-            link: "/api/README",
+            link: "/api/api",
           },
           {
             text: "Release Notes",
@@ -77,6 +77,7 @@ module.exports = {
             collapsable: false,
             children: ["/guide/formatting", "/guide/examples"],
           },
+          "/api/api",
         ],
       },
       "/zh/": {
@@ -91,7 +92,7 @@ module.exports = {
           },
           {
             text: "API",
-            link: "/zh/api/README",
+            link: "/zh/api/api",
           },
 
           {
@@ -106,6 +107,7 @@ module.exports = {
             collapsable: false,
             children: ["/zh/guide/formatting", "/zh/guide/examples"],
           },
+          "/zh/api/api",
         ],
       },
     },
