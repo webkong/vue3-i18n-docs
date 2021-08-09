@@ -2,7 +2,7 @@
 
 ## Compatibility Note
 
-- Vue.js `2.0.0`+
+- Vue.js `3.0.0`+
 
 ## Direct Download / CDN
 
